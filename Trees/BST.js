@@ -35,6 +35,8 @@ class BinarySearchTree {
       }
     }
   }
+
+  
   lookup(value) {
     //Is the root the value ?
     // Set the current node
